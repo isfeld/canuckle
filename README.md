@@ -4,7 +4,7 @@
 
 
 
-Loganuckle is a cloned cersion of Canuckle, a daily Canadian word guessing game powered by code from the original [Wordle](https://www.powerlanguage.co.uk/wordle/).
+Loganuckle is a cloned version of Canuckle, a daily Canadian word guessing game powered by code from the original [Wordle](https://www.powerlanguage.co.uk/wordle/).
 🔗 http://www.canucklegame.ca
 
 
